@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#creating 1s folder 
+mkdir bahubali1
+touch bahubali1/kalkeya
+touch bahubali1/shivagami
+touch bahubali1/kattapaold
+touch bahubali1/shiva
+touch bahubali1/avanthika
+touch bahubali1/bhallaladevduold
